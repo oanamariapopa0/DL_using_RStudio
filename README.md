@@ -31,7 +31,7 @@ summary(comparison)
 plot(nn)
 comparison <- cbind(synthetic_data, Predicted = predicted_diagnosis)
 
-#plotting
+# Plotting 
 library(ggplot2)
 install.packages("ggplot2")
 
