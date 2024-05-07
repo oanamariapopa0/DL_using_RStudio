@@ -1,5 +1,5 @@
 # DL_using_RStudio <3
-Simple CNN using a synthetic dataset trained by diagnostic features 
+Simple CNN using a synthetic dataset trained by diagnostic features.
 
 # Load the required package
 install.packages("neuralnet")
